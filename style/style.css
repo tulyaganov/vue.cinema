@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: white;
+}
+.container{
+    background-color:  #E5E5E5;;
+    width: 1470px;
+    margin: 0 auto;
+  
+}
+.nav__logo{
+    display: block;
+     text-align: center;
+     margin-bottom: 80px;
+}
+.header__link{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px 30px;
+}
+.city{
+    max-width: 1070px;
+    width: 100%;
+ 
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.left__info{
+max-width: 730px;
+width: 50%;
+height: 500px;
+text-align: center;
+background-color: 
+grey
+rgba(240, 240, 240, 1);
+padding-right: 5px;
+}
+.right__info{
+    max-width: 350px;
+    width: 50%;
+    height: 500px;
+    text-align: center;
+    background-color: 
+grey
+rgba(240, 240, 240, 1);
+margin-left: 5px;
+}
